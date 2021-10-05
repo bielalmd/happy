@@ -8,3 +8,5 @@
 
 ## Objetivo
 - O objetivo do projeto é reunir os orfanatos e ajudar os mesmos com doações.
+
+![print](src\img\captur_reamd.PNG)
